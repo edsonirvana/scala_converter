@@ -5,4 +5,4 @@ unixtimestamp count time since 1900 until today, second by second
 
 Example: for 01/01/1990 00:00:01, use 1 in unixtimestamp
 
-Get the code with libraries and function to make this convertion
+Get the code (in code.scala file) with libraries and the function to make this convertion
