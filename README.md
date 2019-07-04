@@ -1,5 +1,5 @@
 # scala_converter
-How to Converter unixtimestamp to timestamp:
+How to Converter unixtimestamp to timestamp with Scala:
 
 unixtimestamp count time since 1900 until today, second by second
 
